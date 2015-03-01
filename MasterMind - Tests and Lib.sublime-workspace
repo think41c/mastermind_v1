@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"seu",
+				"sequence_gen"
+			],
+			[
+				"unique",
+				"unique_colors"
+			],
+			[
+				"evalue",
+				"evaluate_wrong_guess"
+			],
+			[
+				"right",
+				"right_colors"
+			],
+			[
+				"righ",
+				"right_position"
+			],
+			[
+				"min",
+				"min_y"
+			],
+			[
+				"comp",
+				"comp_number_of_r"
+			],
+			[
+				"user",
+				"user_number_of_r"
+			],
+			[
+				"conver",
+				"converted_sequence"
+			],
+			[
+				"converted",
+				"converted_input"
+			],
+			[
+				"convert",
+				"converted_input"
+			],
+			[
+				"chara",
+				"character_length_good"
+			],
+			[
+				"ch",
+				"character_length_good"
+			],
+			[
+				"converte",
+				"converted_sequence"
+			],
+			[
+				"con",
+				"converted_input"
+			],
+			[
+				"coun",
+				"counter_times_10"
+			],
+			[
+				"wrong",
+				"wrong_guess"
+			],
+			[
+				"num",
+				"num_of_sequence"
+			],
+			[
+				"next",
+				"next_node"
+			],
+			[
+				"net",
+				"next_node"
+			],
+			[
+				"node",
+				"node_name"
+			],
+			[
+				"assert",
+				"assert_equal"
+			],
+			[
+				"heading",
+				"heading_p"
+			],
+			[
+				"head",
+				"heading_p"
+			],
+			[
+				"each",
+				"each_with_index"
+			],
+			[
+				"exactly_one_",
+				"exactly_one_double_digit"
+			],
+			[
+				"exac",
+				"exactly_one_time"
+			],
+			[
+				"exact",
+				"exactly_one_ring"
+			],
+			[
+				"none",
+				"none_negative"
+			],
+			[
+				"sum",
+				"sum_all_digits"
+			],
+			[
+				"doubl",
+				"double_every_other_digit"
+			],
+			[
+				"rever",
+				"reverse_num"
+			],
+			[
+				"split",
+				"split_number"
+			],
+			[
+				"credit",
+				"credit_check"
+			],
+			[
+				"end",
+				"end_with"
+			],
+			[
+				"current",
+				"current_num"
+			],
+			[
+				"th",
+				"the_location_in_alpha_array_of_input"
+			],
+			[
+				"card",
+				"card_number"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "input_output.rb",
+			"settings":
+			{
+				"buffer_size": 2497,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "playing_interface.rb",
+			"settings":
+			{
+				"buffer_size": 2259,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "files.rb",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "runner.rb",
+			"settings":
+			{
+				"buffer_size": 157,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "verifier.rb",
+			"settings":
+			{
+				"buffer_size": 605,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logic.rb",
+			"settings":
+			{
+				"buffer_size": 2113,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mastermind_menu.rb",
+			"settings":
+			{
+				"buffer_size": 713,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mastermind_timer.rb",
+			"settings":
+			{
+				"buffer_size": 619,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "input_output_test.rb",
+			"settings":
+			{
+				"buffer_size": 719,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "playing_interface_test.rb",
+			"settings":
+			{
+				"buffer_size": 410,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "verifier_test.rb",
+			"settings":
+			{
+				"buffer_size": 512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "logic_test.rb",
+			"settings":
+			{
+				"buffer_size": 1764,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mastermind_menu_test.rb",
+			"settings":
+			{
+				"buffer_size": 220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mastermind_timer_test.rb",
+			"settings":
+			{
+				"buffer_size": 764,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tonydinitto/Documents/Ruby Programs/mastermind/lib/runner.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind-version2/high_scores.txt",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind-version2/runner_version.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind-version2/runner_version_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind-version2/mm.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/mastermind.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind-version1/mm.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/Mastery_include_uniq_all.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/Mastery_include.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/Mastermind-Take-2/lib/guess_evaluator.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/pragmatic/21-mixins/studio_game.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/pragmatic/21-mixins/game.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind-version1/runner_version.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/master_messages.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/test/mastermind_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/runner.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/runner_version_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/mastermind_timer.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/runner_version.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/mm.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/output.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/fsdaf.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/spot.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/linkedList/link_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/linkedList/linked_list_recursive.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/linkedList/linked_list_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/linkedList/linked_list.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/game.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/master_complete/mastermind/lib/test_file.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/link_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/linked_list_recursive.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/linked_list_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/linked_list.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/linkedList/readme.MD",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/pirate_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/hobbit_rspec_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/beer99/README.md",
+		"/Users/tonydinitto/Documents/Ruby Programs/beer99/beer_io.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/beer99/beer.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/mastermind/lib/mastermind.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/Mastery_inject.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/pragmatic/12-testing/fib.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/linked_list_recursive.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/README.md",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/test/solutions/reduce_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/reject_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/reduce_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/chisel_version2/chisel_erics_version.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/code_retreat/sieve/sieve.rb",
+		"/Users/tonydinitto/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/test/solutions/reduce_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/reduce_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/pp.",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/all_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/chisel.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/chisel_version2.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/ruby-submissions/ruby-submissions/1502/challenges/chisel.markdown",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/chisel_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/zip_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/sort_by_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/count_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/count_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/find_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/group_by_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/group_by_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/find_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/one_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/one_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/none_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/none_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/all_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/reject_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/any_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/select_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/map_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/credit.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/creditcheck.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/credit_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/unicorn_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/flood_fill.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/map_pattern_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/lib/generator/reject_problem.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/any_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/enums-exercises/exercises/select_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/rot13test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/bubble_sort.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/rot13.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/chisel_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/bublesort_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/bubblesort.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/ROT13-Version2_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/Gemfile.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/ROT13-NonOOP.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/inputz.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/deaf_grandma(day3).rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/code_retreat/sieve/README.md",
+		"/Users/tonydinitto/Documents/Ruby Programs/code_retreat/grains/grains_test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/code_retreat/grains/grains.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/code_retreat/grains/aaaaaaa.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/code_retreat/grains/README.md",
+		"/Users/tonydinitto/Documents/Ruby Programs/test.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/pragmatic/19-io/studio_game.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/areyousure.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/ROT13-NonOOP-test.rb",
+		"/Users/tonydinitto/Documents/Learn to Code - Chris Pine Notes.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/calculator.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/calculator_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/medusa_rspec_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/dragon_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/dragon_rspec_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/hobbit_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/dragon.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/medusa.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/medusa_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/hobbit.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/wizard.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/wizard_test.rb",
+		"/Users/tonydinitto/Documents/ruby-exercises/mythical-creatures/unicorn.rb",
+		"/Users/tonydinitto/Documents/Ruby Programs/ctest.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"guess",
+			"again",
+			"clearing",
+			"prompt",
+			"counter",
+			"pp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "input_output.rb",
+					"settings":
+					{
+						"buffer_size": 2497,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1804,
+								1804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 684.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "playing_interface.rb",
+					"settings":
+					{
+						"buffer_size": 2259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1642,
+								1642
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "files.rb",
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "runner.rb",
+					"settings":
+					{
+						"buffer_size": 157,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								147,
+								147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "verifier.rb",
+					"settings":
+					{
+						"buffer_size": 605,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								469,
+								469
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "logic.rb",
+					"settings":
+					{
+						"buffer_size": 2113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 38.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mastermind_menu.rb",
+					"settings":
+					{
+						"buffer_size": 713,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "mastermind_timer.rb",
+					"settings":
+					{
+						"buffer_size": 619,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "input_output_test.rb",
+					"settings":
+					{
+						"buffer_size": 719,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								715,
+								715
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "playing_interface_test.rb",
+					"settings":
+					{
+						"buffer_size": 410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "verifier_test.rb",
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "logic_test.rb",
+					"settings":
+					{
+						"buffer_size": 1764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1718,
+								1718
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "mastermind_menu_test.rb",
+					"settings":
+					{
+						"buffer_size": 220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								187
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "mastermind_timer_test.rb",
+					"settings":
+					{
+						"buffer_size": 764,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								761,
+								761
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/RSpec/RSpec.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.511653645833,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 137.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 125.0,
+	"status_bar_visible": true
+}
